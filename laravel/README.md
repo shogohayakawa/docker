@@ -1,4 +1,4 @@
-# overview
+# Overview
 
 Laravel docker environment sample.
 
@@ -22,7 +22,7 @@ git clone https://github.com/shogohayakawa/docker.git
 # path
 /docker/laravel/docker/db/db-variables.env
 ```
-3. Copy the source code of your laravel project to the ```src directory```.
+3. Copy the source code of your laravel project to the ```src``` directory.
 ```bash
 # path
 /docker/laravel/src/
